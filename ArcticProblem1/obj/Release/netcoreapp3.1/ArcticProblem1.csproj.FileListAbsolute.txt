@@ -1,0 +1,13 @@
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\bin\Release\netcoreapp3.1\ArcticProblem1.exe
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\bin\Release\netcoreapp3.1\ArcticProblem1.deps.json
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\bin\Release\netcoreapp3.1\ArcticProblem1.runtimeconfig.json
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\bin\Release\netcoreapp3.1\ArcticProblem1.runtimeconfig.dev.json
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\bin\Release\netcoreapp3.1\ArcticProblem1.dll
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\bin\Release\netcoreapp3.1\ArcticProblem1.pdb
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\obj\Release\netcoreapp3.1\ArcticProblem1.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\obj\Release\netcoreapp3.1\ArcticProblem1.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\obj\Release\netcoreapp3.1\ArcticProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\obj\Release\netcoreapp3.1\ArcticProblem1.dll
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\obj\Release\netcoreapp3.1\ArcticProblem1.pdb
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\obj\Release\netcoreapp3.1\ArcticProblem1.genruntimeconfig.cache
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ArcticProblem1\obj\Release\netcoreapp3.1\ArcticProblem1.csprojAssemblyReference.cache

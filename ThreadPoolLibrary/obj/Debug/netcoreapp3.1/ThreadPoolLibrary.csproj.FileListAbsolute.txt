@@ -1,0 +1,13 @@
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\bin\Debug\netcoreapp3.1\ThreadPoolLibrary.exe
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\bin\Debug\netcoreapp3.1\ThreadPoolLibrary.deps.json
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\bin\Debug\netcoreapp3.1\ThreadPoolLibrary.runtimeconfig.json
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\bin\Debug\netcoreapp3.1\ThreadPoolLibrary.runtimeconfig.dev.json
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\bin\Debug\netcoreapp3.1\ThreadPoolLibrary.dll
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\bin\Debug\netcoreapp3.1\ThreadPoolLibrary.pdb
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\obj\Debug\netcoreapp3.1\ThreadPoolLibrary.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\obj\Debug\netcoreapp3.1\ThreadPoolLibrary.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\obj\Debug\netcoreapp3.1\ThreadPoolLibrary.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\obj\Debug\netcoreapp3.1\ThreadPoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\obj\Debug\netcoreapp3.1\ThreadPoolLibrary.dll
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\obj\Debug\netcoreapp3.1\ThreadPoolLibrary.pdb
+C:\Users\Asus\Source\Repos\ArcticIntelligence\ThreadPoolLibrary\obj\Debug\netcoreapp3.1\ThreadPoolLibrary.genruntimeconfig.cache
